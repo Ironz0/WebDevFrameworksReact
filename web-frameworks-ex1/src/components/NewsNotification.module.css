@@ -1,0 +1,16 @@
+.header {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.container {
+    background-color: rgb( 65, 150, 164);
+    color: white;
+    padding: 20px;
+    margin-bottom: 3px;
+    margin-top: 3px;
+    margin-left: 400px;
+    margin-right: 400px;
+    width: 1050px;
+
+}

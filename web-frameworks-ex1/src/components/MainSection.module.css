@@ -1,0 +1,89 @@
+.newssection{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    margin-left: -13px;
+    margin-bottom: 3px;
+    margin-top: 10px;
+    margin-right: 25px;
+    height: 800px;
+    border-top: 2px solid black;
+    width: 650px;
+}
+
+.container2 {
+    background-color: white;
+    padding: 20px;
+    height: 800px;
+    margin-top: 10px;
+    width: 330px;
+}
+
+.header {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.HSseuraa{
+    color:red;
+    font-weight: 700;
+}
+
+.header2 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.header3 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 15px;
+}
+
+.number{
+    font-size: 30px;
+    font-weight: 700;
+    text-align: right;
+}
+
+.number2{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.tri{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+td{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 130px;
+}
+
+.side{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.articles{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+h1{
+    font-size: 30px;
+    color: rgb( 65, 150, 164);
+    margin-right: 10px;
+    margin-right: 25px;
+    margin-top: 12px;
+}
+
